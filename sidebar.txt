@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mku:home|Door43 (mku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mku|d43-mku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mku/archive/master.zip|d43-mku.zip]]
+
+**Recent Changes**
+{{changes>ns = mku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mku|Ethnologue data]]
+
